@@ -15,3 +15,9 @@ To run classic loading:
 ```
 python src/hf_loader.py --model_directory /runpod-volume/model-7b 
 ```
+
+To understand memory_usage used memory_profiler for python: 
+```
+example: mprof run hf_loader.py --model_directory meta-llama/Llama-2-13b-chat-hf
+for ploting: mprof plot -o memory_usage_{model_name}.png
+```
