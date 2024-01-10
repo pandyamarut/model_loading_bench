@@ -1,0 +1,8 @@
+Category,Memory (MiB),Total Loading Time (s),Input Directory,GPU Name
+CPU Maxrss,3444,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
+CPU Free,66595,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
+GPU Used,79816,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
+GPU Free,1233,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
+GPU Total,81050,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
+Torch Reserved,2828,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
+Torch Allocated,2828,8.879461526870728,/runpod-volume/model-13b,NVIDIA A100 80GB PCIe
